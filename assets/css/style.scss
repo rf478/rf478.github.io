@@ -3,11 +3,14 @@
 
 @import "{{ site.theme }}";
 
-/* body {
-  /*background-color: ;
-  color: ;
-} */
+body {
+  background: #b5decc;
+}
 
 #header_wrap {
   background: #34454c;
+}
+
+h1, h2, h3 {
+  color: #ae5224;
 }
