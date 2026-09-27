@@ -1,3 +1,5 @@
-theme:
-title: Personal Portfolio
-description:
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+- jekyll-remote-theme
+title: Personal Portfolio!
+description: My student portfolio for Comp Sci
