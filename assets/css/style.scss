@@ -2,6 +2,16 @@
 ---
 
 @import "{{ site.theme }}";
-.page-body {
-    color: #ccffd7;
+
+body {
+  background-color: #34454c;
+  color: #b5decc;
+}
+
+header {
+  background: #34454c;
+}
+
+header h1, header h2 {
+  color: #ae5224;
 }
